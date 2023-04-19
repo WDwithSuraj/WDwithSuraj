@@ -4,8 +4,8 @@
 </p>
 </hr>
 </hr>
-<div>
-   <div style="display:flex;" >
+<div  style="display:flex;">
+   <div >
       <h1>Hi 👋, I'm SURAJ KAMAT</h1>
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43F795&background=B9FF5800&width=440&lines=A+Passionate+Full+Stack+Web+Developer;Learning+Design+and+Development." alt="Typing SVG" /></a>
    </div>
