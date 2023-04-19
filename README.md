@@ -7,7 +7,7 @@
 <div>
    <div>
       <h1>Hi 👋, I'm SURAJ KAMAT</h1>
-      [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43F795&background=B9FF5800&width=440&lines=A+Passionate+Full+Stack+Web+Developer;Learning+Design+and+Development.)](https://git.io/typing-svg)
+      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43F795&background=B9FF5800&width=440&lines=A+Passionate+Full+Stack+Web+Developer;Learning+Design+and+Development." alt="Typing SVG" /></a>
    </div>
    <div>
       <img src=https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif>
