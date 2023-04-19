@@ -2,15 +2,7 @@
 
 </hr>
 
-```js
-const readMePlease = {
-  greetings: "Namaste 👋",
-  iAm: "Suraj Kamat",
-  usually: "building things",
-  in: "JavaScript, TypeScript,",
-  findMeOn: [{ linkedin: "@surajkamat" }, { twitter: "@iTsSurajK" }],
-};
-```
+
 
 <div align="center">
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
