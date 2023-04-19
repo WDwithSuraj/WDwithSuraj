@@ -4,14 +4,9 @@
 </p>
 </hr>
 </hr>
-<div  style="display:flex;">
-   <div >
-      <h2>Hi 👋, I'm SURAJ KAMAT</h2>
-      <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43F795&background=B9FF5800&width=440&lines=A+Passionate+Full+Stack+Web+Developer;Learning+Design+and+Development." alt="Typing SVG" /></a>
-   </div>
-   <div>
-      <img src=https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif alt="coding" width="400px">
-   </div>
+   <div align="center">
+   <h3>Hi, I' m  Suraj Kamat🖐 </h3>
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43F795&background=B9FF5800&width=440&lines=A+Passionate+Full+Stack+Web+Developer;Learning+Design+and+Development." alt="Typing SVG" /></a>
 </div>
 <div align="center">
    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="dash" />
