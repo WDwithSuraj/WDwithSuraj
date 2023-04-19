@@ -10,7 +10,7 @@
       <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=43F795&background=B9FF5800&width=440&lines=A+Passionate+Full+Stack+Web+Developer;Learning+Design+and+Development." alt="Typing SVG" /></a>
    </div>
    <div>
-      <img src=https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif>
+      <img src=https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif alt="coding" width="500px">
    </div>
 </div>
 <div align="center">
