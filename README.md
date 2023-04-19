@@ -5,10 +5,10 @@
 ```js
 const readMePlease = {
   greetings: "Namaste 👋",
-  iAm: "Salil Upadhyay",
+  iAm: "Suraj Kamat",
   usually: "building things",
   in: "JavaScript, TypeScript,",
-  findMeOn: [{ linkedin: "@salilupadhyay" }, { discord: "r1ddle#5240" }],
+  findMeOn: [{ linkedin: "@surajkamat" }, { twitter: "@iTsSurajK" }],
 };
 ```
 
@@ -17,10 +17,10 @@ const readMePlease = {
   </div>
 <div align="center">
   <h2> Connect with me ⬇️</h2>
-<a href="https://github.com/salil-01" target="_blank">
+<a href="https://github.com/WDwithSuraj" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/salilupadhyay" target="_blank">
+<a href="https://www.linkedin.com/in/suraj-kamat-18414624a/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 </div>
@@ -28,7 +28,7 @@ const readMePlease = {
   <br/>
 <div align="center">
   <h2> Checkout my Portfolio ⬇️</h2>
- <a href="https://salil-01.github.io/" target="_blank">
+ <a href="https://wdwithsuraj.github.io/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=patreon&label=&color=F96854&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="patreon logo"  />
   </a>
   <br/>
