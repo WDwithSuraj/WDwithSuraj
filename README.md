@@ -130,7 +130,7 @@
 <h2>Github Stats 📈</h2>
   <br />
   
-![Suraj's language stats](https://github-readme-stats-qx8s.vercel.app/api/top-langs/?username=wdwithsuraj&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wdwithsuraj&size_weight=0.5&count_weight=0.5)](https://github.com/wdwithsuraj/github-readme-stats)
   <br/>
 ![Suraj's GitHub Stats](https://github-readme-stats-qx8s.vercel.app/api?username=wdwithsuraj&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true)
 ![Suraj's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wdwithsuraj&theme=vision-friendly-dark&hide_border=true)
