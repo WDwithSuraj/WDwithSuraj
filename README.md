@@ -134,7 +134,7 @@
 ![Suraj's language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wdwithsuraj&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
   <br/>
 ![Suraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wdwithsuraj&count_private=true&show_icons=true&theme=vision-friendly-dark&hide_border=true)
-![Suraj's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wdwithsuraj&theme=vision-friendly-dark&hide_border=true)
+[![Suraj's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wdwithsuraj&theme=vision-friendly-dark&hide_border=true)](https://camo.githubusercontent.com/c972db2aad094de793404a78df5ad065f511edbc93896bedb392a3375c22b6ca/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d776477697468737572616a267468656d653d766973696f6e2d667269656e646c792d6461726b26686964655f626f726465723d74727565)
 <br/>
 
 <br/>
